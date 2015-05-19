@@ -1,0 +1,2 @@
+include ':VitamioRecorderLibrary'
+include ':VitamioRecorderSample'
